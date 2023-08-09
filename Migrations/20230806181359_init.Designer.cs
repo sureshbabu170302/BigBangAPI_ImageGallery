@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ImageGallery.Migrations
 {
     [DbContext(typeof(ImageGalleryContext))]
-    [Migration("20230803071207_init")]
+    [Migration("20230806181359_init")]
     partial class init
     {
         /// <inheritdoc />
